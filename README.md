@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Senapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[<a href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senapati484&label=Profile%20views&color=0e75b6&style=flat" alt="senapati484" /> </p>
 

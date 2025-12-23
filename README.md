@@ -86,8 +86,6 @@ Robust & scalable backend APIs with best practices
 
 <br>
 
-**📧 Contact:** sayansenapati2544@gmail.com | **🌐 Portfolio:** [sayan4.vercel.app](https://sayan4.vercel.app/)
-
 </div>
 
 ---

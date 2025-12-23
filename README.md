@@ -22,7 +22,7 @@ const sayan = {
         backend: ["Node.js", "Express", "Meteor.js", "Python"],
         mobile: ["React Native", "Flutter"],
         database: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud: ["AWS", "GCP", "Firebase"]
+        cloud: ["AWS", "Firebase", "Vercel"]
     }
 };
 ```
@@ -46,7 +46,7 @@ const sayan = {
 
 <table>
 <tr>
-<td align="center" width="25%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<td align="center" width="33%">
 
 ### 🎨 Full-Stack Dev
 **MERN · MEAN · MEVN**
@@ -57,7 +57,7 @@ Building scalable web applications with modern JavaScript frameworks
 
 </td>
 
-<td align="center" width="25%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<td align="center" width="33%">
 
 ### 📱 Mobile Apps
 **React Native · Flutter**
@@ -68,23 +68,12 @@ Cross-platform mobile solutions for iOS & Android
 
 </td>
 
-<td align="center" width="25%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<td align="center" width="33%">
 
 ### ⚡ API Development
 **REST · GraphQL**
 
 Robust & scalable backend APIs with best practices
-
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-
-</td>
-
-<td align="center" width="25%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
-
-### ☁️ Cloud & DevOps
-**AWS · GCP · Docker**
-
-Cloud deployment, CI/CD, and infrastructure management
 
 <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
@@ -112,7 +101,7 @@ Cloud deployment, CI/CD, and infrastructure management
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -128,13 +117,13 @@ Cloud deployment, CI/CD, and infrastructure management
 
 ---
 
-<div align="center">
-
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=6366F1&author_color=EC4899&bg_color=0D1117&border_color=7C3AED)
 
 ---
+
+<div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sayansenapati)
 

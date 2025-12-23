@@ -131,11 +131,9 @@ Robust & scalable backend APIs with best practices
 
 ---
 
-### 💭 Random Dev Quote
+## 💭 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=6366F1&author_color=EC4899&bg_color=0D1117&border_color=7C3AED" alt="Random Dev Quote" width="100%"/>
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=6366F1&author_color=EC4899&bg_color=0D1117&border_color=7C3AED)
 
 ---
 

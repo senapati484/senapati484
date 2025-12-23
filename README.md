@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Sayan%20Senapati&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Open%20Source&descAlignY=51&descAlign=50&animation=twinkling&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=180&section=header&text=Sayan%20Senapati&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Open%20Source&descAlignY=51&descAlign=50&animation=twinkling&fontColor=fff"/>
 </div>
 
 <div align="center">
@@ -132,12 +132,12 @@ Cloud deployment, CI/CD, and infrastructure management
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_color=6366F1&author_color=8B5CF6&bg_color=0D1117" alt="Random Dev Quote"/>
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sayansenapati)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=100&section=footer"/>
 
 </div>

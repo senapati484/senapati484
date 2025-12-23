@@ -115,7 +115,7 @@ Robust & scalable backend APIs with best practices
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Flowa](https://img.shields.io/badge/Flowa-6366F1?style=for-the-badge&logo=flow&logoColor=white)
+![Flowa](https://img.shields.io/badge/Flowa-6366F1?style=for-the-badge&logoUrl=https://raw.githubusercontent.com/senapati484/homebrew-flowa/editor-support/vscode/icons/flowa-icon.png&logoColor=white)
 
 </div>
 

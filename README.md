@@ -1,144 +1,165 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=180&section=header&text=Sayan%20Senapati&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Open%20Source&descAlignY=51&descAlign=50&animation=twinkling&fontColor=fff"/>
-</div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Products+%F0%9F%9A%80;Freelance+Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%94%A5;Always+Shipping+%E2%9C%A8)](https://git.io/typing-svg)
+# ⚡ SAYAN SENAPATI
 
-</div>
+### Full-Stack Developer · AI/ML Builder · Open Source
 
-## 👨‍💻 About Me
-```javascript
-const sayan = {
-    location: "Kolkata, West Bengal 🇮🇳",
-    role: "Freelance Full-Stack Developer",
-    focus: ["Web Apps", "Mobile Apps", "APIs"],
-    learning: ["React Native", "System Design", "Web3"],
-    availability: "Open for Freelance Work 💼",
-    
-    stack: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Meteor.js", "Python"],
-        mobile: ["React Native", "Flutter"],
-        cloud: ["AWS", "Vercel", "Cloudflare", "Netlify"],
-        tools: ["Git", "GitHub", "Postman", "NPM", "Flowa"]
-    }
-};
-```
+<a href="https://sayan4.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-sayan4.vercel.app-111827?style=for-the-badge&labelColor=000000" /></a>
+<a href="https://github.com/senapati484"><img src="https://img.shields.io/badge/GITHUB-senapati484-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+<a href="mailto:sayansenapati2544@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sayan4.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayansenapati2544@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-senapati-430833211)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sayansenapati11)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sayan_senapati_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sayansenapati1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069837541656&mibextid=kFxxJD)
-
-![Profile Views](https://komarev.com/ghpvc/?username=senapati484&label=Views&color=6366f1&style=flat)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+products%2C+not+just+projects.;Web+%2B+Mobile+%2B+AI+%2B+Cloud.;Shipping+ideas+from+zero+to+production.;Always+learning.+Always+building." alt="Typing intro" />
 
 </div>
 
 ---
 
-## 💼 Services
+## 🧬 `whoami`
 
-<div align="center">
+```ts
+const sayan = {
+  role: "Full-Stack Developer",
+  basedIn: "West Bengal, India 🇮🇳",
+  building: ["Web Apps", "Mobile Apps", "Developer Tools", "AI-powered Products"],
+  currentlyLearning: ["AI/ML", "System Design", "Cloud & DevOps"],
+  loves: ["clean UX", "automation", "open source", "shipping"],
+  status: "OPEN TO COLLABORATION"
+};
+```
+
+> **My rule:** turn an idea into something people can actually use.
+
+---
+
+## 🛸 What I Build
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🎨 Full-Stack Dev
-**MERN · MEAN · MEVN**
+### 🌐 Product Engineering
+Modern, responsive and production-ready applications.
 
-Building scalable web applications with modern JavaScript frameworks
-
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+**React · Next.js · TypeScript · Tailwind · Node.js**
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 🤖 AI / ML Integration
+Useful AI experiences rather than AI for the sake of AI.
 
-### 📱 Mobile Apps
-**React Native · Flutter**
-
-Cross-platform mobile solutions for iOS & Android
-
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+**Gemini API · AI workflows · automation · intelligent UX**
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### 📱 Cross-Platform
+One codebase, real products across devices.
 
-### ⚡ API Development
-**REST · GraphQL**
+**React Native · Expo · Tauri**
 
-Robust & scalable backend APIs with best practices
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+### ☁️ Cloud & DevOps
+From local development to deployed services.
+
+**AWS · Docker · Jenkins · Vercel · Cloudflare**
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
+## 🧰 The Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,python,java,cpp,mongodb,mysql,supabase,firebase,aws,docker,jenkins,git,github,figma,postman,vercel,cloudflare&perline=8" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Things I Built
+
+| Project | What it is |
+|---|---|
+| **Open Gamma** | Desktop productivity / AI-oriented application |
+| **TeleDrive** | Telegram-connected cloud-style file workflow |
+| **VoiceForge** | Developer-focused voice / audio project |
+| **Cal AI** | AI-assisted nutrition tracking mobile app |
+| **NotesLocker** | Privacy-first notes application |
+| **Flowa** | A Python-inspired programming language/toolchain |
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Meteor](https://img.shields.io/badge/Meteor-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Flowa](https://img.shields.io/badge/Flowa-6366F1?style=for-the-badge&logoUrl=https://raw.githubusercontent.com/senapati484/homebrew-flowa/editor-support/vscode/icons/flowa-icon.png&logoColor=white)
-
+<a href="https://github.com/senapati484?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-%E2%86%92-7C3AED?style=for-the-badge&labelColor=111827" /></a>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 GitHub Telemetry
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=senapati484&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=9CA3AF&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senapati484&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=9CA3AF" />
+</div>
 
-![snake gif](https://raw.githubusercontent.com/senapati484/senapati484/output/github-contribution-grid-snake-dark.svg)
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=senapati484&hide_border=true&background=00000000&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED&sideLabels=9CA3AF&dates=6B7280" />
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 🐍 Contribution Activity
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&height=auto&quote_color=6366F1&author_color=EC4899&bg_color=0D1117&border_color=7C3AED)
+<div align="center">
+<img src="https://raw.githubusercontent.com/senapati484/output/main/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
 
-----
+---
+
+## 🧠 Currently Exploring
+
+```text
+AI / ML
+├── Model integration
+├── AI-assisted product design
+└── practical automation
+
+Engineering
+├── System Design
+├── Cloud / DevOps
+└── scalable backend architecture
+
+Building
+├── developer tools
+├── cross-platform apps
+└── experimental products
+```
+
+---
+
+## 🤝 Let’s Build
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sayansenapati)
+**Have an idea? Need a developer? Building something interesting?**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=100&section=footer"/>
+<a href="mailto:sayansenapati2544@gmail.com"><img src="https://img.shields.io/badge/LETS_BUILD_SOMETHING-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+
+<br/><br/>
+<a href="https://www.linkedin.com/in/sayan-senapati-430833211">LinkedIn</a> · <a href="https://x.com/sayansenapati11">X</a> · <a href="https://instagram.com/sayan_senapati_">Instagram</a> · <a href="https://youtube.com/@sayansenapati1">YouTube</a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=senapati484&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<div align="center">
+
+### `console.log("build → ship → learn → repeat");`
 
 </div>
